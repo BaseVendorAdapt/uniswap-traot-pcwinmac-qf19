@@ -1,4 +1,4 @@
-# 
+# Instantané uniswap trading bot extensions pour Mac OS | Léger uniswap trading bot extensions pour PC Windows. Avec trading de paires et taille de position — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
